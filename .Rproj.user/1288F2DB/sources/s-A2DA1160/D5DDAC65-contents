@@ -1,1 +1,2 @@
 print ("OKAY")
+print ("FINE")
