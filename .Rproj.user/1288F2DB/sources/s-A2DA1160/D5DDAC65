@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595850515778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "758070071",
+    "id" : "D5DDAC65",
+    "lastKnownWriteTime" : 1595850534,
+    "last_content_update" : 1595850534223,
+    "path" : "D:/prothom/123.R",
+    "project_path" : "123.R",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
